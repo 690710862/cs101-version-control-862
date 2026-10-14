@@ -1,5 +1,5 @@
 # My CS Profile
 
 ## About Me
-- Name: Fiw
+- Name: Anothai Tuengsuk
 - Major: Computer Science
