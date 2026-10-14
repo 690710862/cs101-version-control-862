@@ -13,3 +13,8 @@
 - Artificial Intelligence
 - Web Development
 - Game Development
+
+## Skills
+- Problem solving
+- C, Luau, Python, HTML, CSS, JS, App Script basics
+- Alone work...
