@@ -9,11 +9,6 @@
 - Learn Artificial Intelligence and essential algorithms
 - Make my own Artificial Intelligence that run and learn on my Personal Computer
 
-## Technology Interests
-- Artificial Intelligence
-- Web Development
-- Game Development
-
 ## Skills
 - Problem solving
 - C, Luau, Python, HTML, CSS, JS, App Script basics
