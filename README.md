@@ -1,7 +1,5 @@
-# cs101-version-control-862
+# My CS Profile
 
-#include <stdio.h>
-
-int main() {
-  return 0;
-}
+## About Me
+- Name: Fiw
+- Major: Computer Science
